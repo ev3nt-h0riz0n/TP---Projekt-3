@@ -11,7 +11,10 @@ Po poprawnym skonfigurowaniu należy wpisać do Pythona:
 
 ## Generowanie sygnałów sinusoidalnych, cosinusoidalnych, piłokształtnych, prostokątnych
 
-SINUSOIDALNA: 		'sygnaly.sin(f)' 	- gdzie f - wybrana przez użytkownika częstotliwość w Hz. 
+SINUSOIDALNA: 		
+'sygnaly.sin(f)'
+gdzie f - wybrana przez użytkownika częstotliwość w Hz. 
+
 COSINUSOIDALNA: 	'sygnaly.sin(f)' 	- gdzie f - wybrana przez użytkownika częstotliwość w Hz. 
 PROSTAKATNY: 		'sygnaly.prosto(f, w)' 	- gdzie f - częstotliwość, w - współczynnik wypełnienia
 PROSTAKATNY: 		'sygnaly.pilo(f)'	- gdzie f - częstotliwość
