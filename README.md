@@ -2,8 +2,11 @@
 ## Projekt wykonany przez Doriana Neumann (198415) oraz Antoniego Sulkowskiego (197564)
 
 By użyc biblioteki należy pobrać plik c++ oraz ewentualnie skonfigurować CMakeLists.txt, aby odpowiadała użytkownikowi (m.in. z wyszukiwaniem PATH'u). Ponadto obowiązkowe jest posiadanie bibliotek: matplotplusplus oraz libsndfile.
+
 Linki do repozytorium z bibliotekami:
+
 MATPLOTPLUSPLUS: https://github.com/alandefreitas/matplotplusplus
+
 LIBSNDFILE: https://github.com/libsndfile/libsndfile
 
 Po poprawnym skonfigurowaniu należy wpisać do Pythona:
