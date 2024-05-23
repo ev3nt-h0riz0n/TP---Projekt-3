@@ -25,7 +25,7 @@ gdzie f - częstotliwość, w - współczynnik wypełnienia
 'sygnaly.pilo(f)'	 
 gdzie f - częstotliwość
 
-Przykład: Wpisując do konsoli 'sygnaly.sin(5)' otrzymamy wykres funkcji cosinus o częstotliwości 5 Hz.
+Przykład: Wpisując do konsoli 'sygnaly.sin(5)' otrzymamy wykres funkcji sinus o częstotliwości 5 Hz.
 
 ## Wizualizowanie sygnału dźwiękowego z rozszerzeniem .wav oraz wizualizacja jego autokorelacji
 Aby zrealizować funkcję należy wpisać do Pythona:
