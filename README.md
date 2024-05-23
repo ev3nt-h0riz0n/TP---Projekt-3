@@ -37,6 +37,7 @@ Aby zrealizować funkcję należy wpisać do Pythona:
 gdzie n to n-krotne pomniejszenia liczby próbek sygnału, w celu zmniejszenia obciążenia programu i ograniczenia potencjalnych zacięć. N powinno należeć do liczb naturalnych dodatnich.
 
 Przykład: Wpisując do konsoli 'sygnaly.wizualizacja("C:\\Users\\Jarek\\ProgramIII\\audio.wav", 4) otrzymamy wykres wizualizujący dźwięk pliku znajdującego się na tej ścieżce o nazwie audio.wav z 4-krotnie mniejszą ilością próbek. Wpisując 1 liczba próbek pozostanie jednakowa jak w pliku. Jako drugi obraz wygeneruje się wizualizacja autokorelacji dźwięku z pliku.
+
 __!!! UWAGA !!!: Obowiązkowe jest wpisywanie podwójnych ukośników (\\).__
 
 W pliku CMakeLists.txt jest duzo dodanych ścieżek ze względu na to, że mój komputer nie wyszukiwał ich domyślnie. Proszę usunąć zbędne :)).
